@@ -1,7 +1,11 @@
+// Klasser
 Model model = new Model();
 GUI gui = new GUI();
 
-// Main funktions
+// Variabler
+
+
+// Hovedfunktioner
 void setup(){
   size(800, 800);
 }
@@ -10,7 +14,7 @@ void draw(){
   
 }
 
-// Event checkers
+// Begivenhedstjekkere
 void mousePressed(){
   
 }
